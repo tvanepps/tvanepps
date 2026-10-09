@@ -1,4 +1,4 @@
-I work on Ethereum core protocol coordination and research on the political economy of protocols, and am a member of [Protocol Guild](https://www.protocolguild.org).
+I work on Ethereum core protocol coordination and research on the political economy of protocols, and am a member of [Protocol Guild](https://www.protocolguild.org): a membership based org of ~190 ethereum protocol maintainers.
 
 ## Top 10 Current Protocol Guild Funders
 
