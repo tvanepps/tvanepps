@@ -1,8 +1,4 @@
-I work on Ethereum core protocol coordination and research on the political economy of protocols, and am a member of [Protocol Guild](https://www.protocolguild.org): a membership based org of ~190 ethereum protocol maintainers.
-
-## Top 10 Current Protocol Guild Funders
-
-Protocol Guild is only possible due to the generous support of ecosystem donors. Thank you to our top 10 funders, ranked below by their current contributions to core protocol stewardship:
+I work on Ethereum core protocol coordination and research on the political economy of protocols, and am a member of [Protocol Guild](https://www.protocolguild.org): a membership based org of ~190 ethereum protocol maintainers. Protocol Guild is only possible due to the generous support of ecosystem donors. Thank you to our top 10 funders, ranked below by their current contributions to core protocol stewardship:
 
 1. [Ether.fi Foundation](https://ether.fi)
 2. [LayerZero Foundation](https://layerzero.foundation)
